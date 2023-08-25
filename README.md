@@ -2,9 +2,6 @@
 <h3 align="center">My passion is creating, and I find happiness in being a better me today than the me yesterday.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paras-017&label=Profile%20views&color=0e75b6&style=flat" alt="paras-017" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paras-017" alt="paras-017" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [React-Native Food4Paws](https://food4paw.vercel.app/)
 
