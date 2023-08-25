@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paras Singh</h1>
 <h3 align="center">My passion is creating, and I find happiness in being a better me today than the me yesterday.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paras-017&label=Profile%20views&color=0e75b6&style=flat" alt="paras-017" /> </p>
 
 
 - 🔭 I’m currently working on [React-Native Food4Paws](https://food4paw.vercel.app/)
