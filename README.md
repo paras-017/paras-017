@@ -25,6 +25,8 @@
 <a href="https://linkedin.com/in/paras018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paras018" height="30" width="40" /></a>
 <a href="https://instagram.com/paras__018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paras__018" height="30" width="40" /></a>
 </p>
+<h3  align="left">Languages and Tools:</h3>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
