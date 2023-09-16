@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👯 I’m looking to collaborate on **Front-End Projects**
+- 👯 I’m looking to collaborate on **FUll-Stack Projects**
 
 - 👨‍💻 All of my projects are available at [https://paras-dev.vercel.app/](https://paras-dev.vercel.app/)
 
